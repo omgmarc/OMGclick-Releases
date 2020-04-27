@@ -16,7 +16,9 @@
 
 ## [Overview]
 
-This [auto clicker] was written using **AutoHotkey**, but its aim is to be more than a simple "replay" script, automating other aspects of the tedious and repetitive task of grinding. While most auto clickers simply spam keys or mouseclicks to replay a battle for you, this one seeks to replicate the game's Multi-Battle system but without the added monthly cost and without any imposed limits to the number of battles available...aside from how much energy you can afford to spend. 
+### [Download Latest Version](https://github.com/omgmarc/OMGclick-Public/releases)
+
+This auto clicker was written using **AutoHotkey**, but its aim is to be more than a simple "replay" script, automating other aspects of the tedious and repetitive task of grinding. While most auto clickers simply spam keys or mouseclicks to replay a battle for you, this one seeks to replicate the game's Multi-Battle system but without the added monthly cost and without any imposed limits to the number of battles available...aside from how much energy you can afford to spend. 
 
 While there are several features already in place, this is still what I would consider in a *beta* stage, with a number of other features currently disabled in the UI and/or still being developed. Refer to the changelog for information on features being developed.
 
