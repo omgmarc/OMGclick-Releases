@@ -10,12 +10,19 @@ All notable changes to this project will be documented in this file.
 + Food champ swapping
 + Support for BlueStacks and other clients
 
+## [3.2.1] - 2020-04-29
+
+### Fixed
+
++ Not detecting Plarium Play clients anymore
+
 ## [3.2.0] - 2020-04-29
 
 ### Added
 
 + OSD to display status messages
-+ Added all remaining dungeons, potions keeps, and campaign chapters to detection library
++ All remaining dungeons, potions keeps, and campaign chapters to detection library
++ Provisions to support other client types underway...
 
 ### Changed
 
