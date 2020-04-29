@@ -4,12 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-+ Detection of all dungeons and keeps
-+ Automatic/Dynamic battle time calculation
 + Monitoring market for shards
++ Automatic/Dynamic battle time calculation
++ Artifact rarity and (main) stats in Auto-Sell filter
 + Food champ swapping
-+ Artifact-restriction in auto-sell (dungeons only)
 + Support for BlueStacks and other clients
+
+## [3.2.0] - 2020-04-29
+
+### Added
+
++ OSD to display status messages
++ Added all remaining dungeons, potions keeps, and campaign chapters to detection library
+
+### Changed
+
++ Auto-sell will now detect what level was run and detect artifacts accordingly
++ Refactoring of variables, methods, and subroutines for more consistency
+
+### Fixed
+
++ Fixed range calculation in search fcn. (cause of major slowdowns)
++ Rank 4 artifact detection corrected
 
 ## [3.1.2] - 2020-04-26
 
