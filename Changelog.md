@@ -10,13 +10,13 @@ All notable changes to this project will be documented in this file.
 + Food champ swapping
 + Support for BlueStacks and other clients
 
-## [3.2.1] - 2020-04-29
+## [b3.2.1] - 2020-04-29
 
 ### Fixed
 
 + Not detecting Plarium Play clients anymore
 
-## [3.2.0] - 2020-04-29
+## [b3.2.0] - 2020-04-29
 
 ### Added
 
@@ -34,7 +34,7 @@ All notable changes to this project will be documented in this file.
 + Fixed range calculation in search fcn. (cause of major slowdowns)
 + Rank 4 artifact detection corrected
 
-## [3.1.2] - 2020-04-26
+## [b3.1.2] - 2020-04-26
 
 ### Added
 
@@ -48,7 +48,7 @@ All notable changes to this project will be documented in this file.
 
 + Dungeon detection: The Dragon's Lair & Fire Knight's Castle are now properly detected and their respective artifact sets parsed accordingly
 
-## [3.1.1] - 2020-04-25
+## [b3.1.1] - 2020-04-25
 
 ### Added
 
@@ -71,13 +71,13 @@ All notable changes to this project will be documented in this file.
 + Energy restore now occurs immediately rather than waiting an entire interval
 
 
-## [3.1.0] - 2020-0424
+## [b3.1.0] - 2020-0424
 
 ### Added
 
 + Run count limiter
 
-## [3.0.0] - 2020-04-05
+## [b3.0.0] - 2020-04-05
 
 Codebase uploaded to GitHub
 
