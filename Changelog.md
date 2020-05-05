@@ -10,6 +10,12 @@ All notable changes to this project will be documented in this file.
 + Food champ swapping
 + Support for BlueStacks and other clients
 
+## [3.3.1] - 2020-05-05
+
+### Fixed
+
++ Corrected SendMode switching
+
 ## [3.3.0] - 2020-05-05
 
 ### Added
