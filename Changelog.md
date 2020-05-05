@@ -12,9 +12,15 @@ All notable changes to this project will be documented in this file.
 
 ## [3.3.1] - 2020-05-05
 
+## Changed
+
++ Rank 1 and 2 artifacts marked for sale by default
++ Minimize window no longer on by default
+
 ### Fixed
 
 + Corrected SendMode switching
++ Typo causing first-run rank scans to fail 100% of the time
 
 ## [3.3.0] - 2020-05-05
 
