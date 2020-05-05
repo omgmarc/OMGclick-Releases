@@ -1,16 +1,14 @@
 # **OMGclick** for *Raid: Shadow Legends* (Desktop Clients)
 
-<img src="OMGclick.png" align=right margin=10 alt="GUI" style="float:right; border: 1px dashed #999; padding: 10px; margin: 0 0 10px 10px"/>
+<img src="OMGclick.png" margin=10 alt="GUI" style="float:right; border: 1px dashed #999; padding: 10px; margin: 0 0 10px 10px"/>
 
 ## Table of Contents
 
 + [Overview](#Overview)
 + [Configuration](#Configuration)
-  + [Game Client](#Game-Client)
-  + [Multi-monitor Use](#Multi-monitor-Use)
-  + [Main Settings](#Main-Settings)
+  + [Client Settings](#Client-Settings)
   + [Auto-Sell](#Auto-Sell)
-  + [Energy](#Energy)
+  + [General Settings](#General-Settings)
 + [Usage](#Usage) - *Read this before using*
 + [Caveats](#Caveats)
 
@@ -28,43 +26,35 @@ If you've made it this far, thank you. I look forward to reading your feedback a
 
 Rather than having you mess with a config file, I've designed a simple user interface (UI). The options should be relatively straightforward if you're already familiar with the game's Multi-Battle option.
 
-### [Game Client]
+### [Client Settings]
 
-**NOTE:** This only works with Plarium Play for now. Support for BlueStacks, NoxPlayer, LD Player, and other clients *will* eventually be supported as well...kinda just depends on if user demand dictates it.
+**NOTE:** This only works with Plarium Play for now. Support for BlueStacks, NoxPlayer, LD Player, and other clients *will* eventually be supported as well...kinda just depends on if user demand dictates it and how soon I can work out the major bugs in the current versions.
 
 **Number of Game Clients** Set this to the number game clients you have running. Unless you're multi-boxing, you'll likely only ever need to set this to **1**. I haven't personally tested this, but theoretically, this program should be able to support up to 99 simultaneous clients. Whether or not your computer can is a different story.
 
 **Minimize when not scanning**: this will hide the game client windows when they're not being processed. This option is handy for those of you who might want to do other stuff on your computer while letting this program do its thing.
 
-### [Multi-monitor Use]
-
-If you have more than one monitor, you may enable this option to have OMGclick automatically move the game client window(s) to your second monitor. 
-
-### [Main Settings]
-
-**Block user input while processing game client** will prevent you from sending accidental commands (i.e. keystrokes and mouseclicks) to the game client(s).
-
-**Check for +100% EXP Boost** will prompt you if it detects that 100% EXP boost isn't active. You will be given the option to stop the grind session so you can refresh the boost or you may continue without it.
-
-**Auto-stop at Max Level** will automatically stop the grind session for the client and return to the "Edit Team" screen to allow you to replace your food champs with fresh ones.
-
-**Pause on Auto-stop** will pause the program when a client has max level champions. Use this when you want the program to stop checking the game client(s) when one of them has max level champions. Note that this will halt all running sessions for other clients as well.
-
-**Leveling single champion** should be enabled when solo-leveling a champion (i.e. the champion all by him/herself).
-
-**Round/Battle Time** this is the scan interval and does not necessarily need to match your actual run time. The greater the interval, the more time between checks for the end battle screen. If you're using your computer at the same time, a longer interval may help with minimizing interruptions. You can also set a short interval to repeatedly check the game client(s). It's recommended that you avoid short intervals while using the *minimize* setting, however, as rapid repeated switching of game clients can lead to visual/rendering glitches that will cause problems for the program.
+**Block user input while processing game client** will prevent you from sending accidental commands (i.e. keystrokes and mouseclicks) to the game client(s). You will need to run this program as Admin in order to use this option (it's a limitation in Windows). To do so, right click on the program, and select "Run as Administrator," then hit OK in the dialogue box that appears.
 
 ### [Auto-Sell]
 
-**Sell artifacts** this is currently only set to detect *Curing* artifacts from level 12 of the campaign. Future releases will include detection for other levels and dungeons and their respective artifact sets.
+**Enable Auto-Sell** Detect artifacts in the post-battle screen and sell or keep them based on the filters users.
 
 **Ranks to sell** lets you select which artifact ranks to sell. Unselected ranks will be kept, of course.
 
-### [Energy]
+**Sell everything from Ch. 12** lets you farm 12-3, for example, and sell all the Curing artifacts without having to touch the filters.
 
-**Restore Energy** will automatically purchase energy refills for you; otherwise, the program will wait for enough energy to be restored to continue.
+### [General Settings]
+
+**Check for +100% EXP Boost** will prompt you if it detects that 100% EXP boost isn't active. You will be given the option to stop the grind session so you can refresh the boost or you may continue without it.
+
+**Auto-stop at Max Level** will automatically stop the grind session for the client and return to the "Edit Team" screen.
+
+**Scan Interval** (formerly called "Round/Battle Time"): this is the scan interval and does not necessarily need to match your actual run time. The greater the interval, the more time between checks for the end battle screen. If you're using your computer at the same time, a longer interval may help with minimizing interruptions. You can also set a short interval to repeatedly check the game client(s). It's recommended that you avoid really short intervals while using the *minimize* setting, as rapid repeated switching of game clients can lead to visual/rendering glitches that will cause problems for the program.
 
 **No. of runs to perform** allows you to set a limit to the number of runs to be executed by the program. At this time, this is a global setting that affects all running clients. Setting this to **10**, for example, will perform 10 battles on each client before stopping.
+
+**Restore Energy** will automatically purchase energy refills for you; otherwise, the program will wait for enough energy to be restored to continue.
 
 ## [Usage]
 

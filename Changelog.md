@@ -10,13 +10,33 @@ All notable changes to this project will be documented in this file.
 + Food champ swapping
 + Support for BlueStacks and other clients
 
-## [b3.2.1] - 2020-04-29
+## [3.3.0] - 2020-05-05
+
+### Added
+
++ Override auto-sell options to sell **EVERYTHING** from Ch. 12 (Brimstone Path)
++ Alternate (slower) clicking mode for those having issues with clicks not registering with standard click mode
++ Capture screenshots of auto-sell operations (sold and kept items)
+
+### Changed
+
++ New GUI layout to better-accommodate DPI scaling users
+
+### Removed
+
++ Monitor placement options removed to make way for using preferred window size/position option
+
+### Fixed
+
++ Numerous bugs and detection faults. There might still be a few, so please report any.
+
+## [3.2.1] - 2020-04-29
 
 ### Fixed
 
 + Not detecting Plarium Play clients anymore
 
-## [b3.2.0] - 2020-04-29
+## [3.2.0] - 2020-04-29
 
 ### Added
 
@@ -34,7 +54,7 @@ All notable changes to this project will be documented in this file.
 + Fixed range calculation in search fcn. (cause of major slowdowns)
 + Rank 4 artifact detection corrected
 
-## [b3.1.2] - 2020-04-26
+## [3.1.2] - 2020-04-26
 
 ### Added
 
@@ -48,7 +68,7 @@ All notable changes to this project will be documented in this file.
 
 + Dungeon detection: The Dragon's Lair & Fire Knight's Castle are now properly detected and their respective artifact sets parsed accordingly
 
-## [b3.1.1] - 2020-04-25
+## [3.1.1] - 2020-04-25
 
 ### Added
 
@@ -71,13 +91,13 @@ All notable changes to this project will be documented in this file.
 + Energy restore now occurs immediately rather than waiting an entire interval
 
 
-## [b3.1.0] - 2020-0424
+## [3.1.0] - 2020-0424
 
 ### Added
 
 + Run count limiter
 
-## [b3.0.0] - 2020-04-05
+## [3.0.0] - 2020-04-05
 
 Codebase uploaded to GitHub
 
