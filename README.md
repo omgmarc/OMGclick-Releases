@@ -1,6 +1,6 @@
 # **OMGclick** for *Raid: Shadow Legends* (Desktop Clients)
 
-<img src="OMGclick_GUI3.png" margin=10 alt="GUI" style="float:right; border: 1px dashed #999; padding: 10px; margin: 0 0 10px 10px"/>
+<img src="OMGclick_GUI3.png" align="right" margin=10 alt="GUI" style="float:right; border: 1px dashed #999; padding: 10px; margin: 0 0 10px 10px"/>
 
 ## Table of Contents
 
