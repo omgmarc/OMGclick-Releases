@@ -11,16 +11,17 @@
   + [General Settings](#General-Settings)
 + [Usage](#Usage) - *Read this before using*
 + [Caveats](#Caveats)
++ [Donate](#Donate)
 
 ## [Overview]
 
 ### [Download Latest Version](https://github.com/omgmarc/OMGclick-Public/releases)
 
-This auto clicker was written using **AutoHotkey**, but its aim is to be more than a simple "replay" script, automating other aspects of the tedious and repetitive task of grinding. While most auto clickers simply spam keys or mouseclicks to replay a battle for you, this one seeks to replicate the game's Multi-Battle system but without the added monthly cost and without any imposed limits to the number of battles available...aside from how much energy you can afford to spend. 
+This auto clicker was written using **AutoHotkey**, but its aim is to be more than a simple "replay" script by automating other aspects of the tedious and repetitive task of grinding for EXP and gear in Raid: Shadow Legends. While most auto clickers simply spam keys or mouseclicks to replay a battle for you, this one seeks to replicate the game's in-built Multi-Battle system but without any imposed limits to the number of battles available...aside from how much energy you can afford to spend. 
 
-While there are several features already in place, this is still what I would consider in a *beta* stage, with a number of other features currently disabled in the UI and/or still being developed. Refer to the changelog for information on features being developed.
+Please do bear in mind that this is really just a hobby at this point and is still what I would consider in a *beta* stage. There are a number of features being developed, so updates and changes are bound to happen frequently and at times sporadically. My primary focus will be to fix any major bugs, but I also try to release at least one new feature with each bugfix, even if it's not something very major.
 
-If you've made it this far, thank you. I look forward to reading your feedback and working together. Look below for information on how to use this program. For those who prefer video instructions over those in text form, that will be coming soon.
+Anyhow, if you've made it this far, thank you. I look forward to reading your feedback and working together in making this the best it can be or at least as good as I can make it. Look below for information on how to use this program. For those who prefer video instructions over ones in text form, that will be coming soon, too.
 
 ## [Configuration]
 
@@ -71,3 +72,8 @@ OMGclick uses your game client's Process ID (PID) as a unique identifier rather 
 ## [Caveats]
 
 When using OMGclick with multiple clients, clients are initially processed from the bottom up. If you wish to run OMGclick with a different client count than are actually running (e.g. setting number of clients to 3 but having 4 running), make sure that the one(s) you want OMGclick to "ignore" are the ones most-recently active. So in the previously-mentioned example, the one to be ignored would either be currently active (selected) or have been the most-recently active before switching to some other window. Under most circumstances, this is a non-issue, but I felt it relevant for some users as I tend to do this myself when working on an account that's not "farming".
+
+## [Donate]
+
+I just want to thank you all for finding great use of my little program. A special thank you also goes out to those of you who felt the urge the shoot me a few bucks here and there to show your support. While I do not expect this from anyone, for others who may also feel the same way, you are welcome [to help keep my coffee supply topped off via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my auto-clicker, and thank you for any donations. Have a wonderful day, and be safe out there.
+
