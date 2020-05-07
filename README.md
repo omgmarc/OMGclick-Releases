@@ -75,5 +75,5 @@ When using OMGclick with multiple clients, clients are initially processed from 
 
 ## [Donate]
 
-I just want to thank you all for finding great use of my little program. A special thank you also goes out to those of you who felt the urge the shoot me a few bucks here and there to show your support. While I do not expect this from anyone, for others who may also feel the same way, you are welcome [help to keep my coffee supply healthy via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my auto-clicker, and thank you for any donations. Have a wonderful day, and be safe out there.
+I just want to thank you all for finding great use of my little program. A special thank you also goes out to those of you who felt the urge the shoot me a few bucks here and there to show your support. While I do not expect this from anyone, for others who may also feel the same way, you are welcome [to help keep my coffee supply topped off via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my auto-clicker, and thank you for any donations. Have a wonderful day, and be safe out there.
 
