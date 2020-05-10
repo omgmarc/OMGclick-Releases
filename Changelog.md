@@ -4,11 +4,34 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-+ Monitoring market for shards
++ Market Monitor to buy Shards when AFK (Coming in v4.0)
 + Automatic/Dynamic battle time calculation
-+ Artifact rarity and (main) stats in Auto-Sell filter
-+ Food champ swapping
++ Artifact rarity and flat stats filters for Auto-Sell (Coming in v4.0)
++ Food champ swapping (Coming in v4.0)
 + Support for BlueStacks and other clients
++ "Nexter" to automatically progress through campaign/dungeon stages
++ 
+
+## [3.3.2] - 2020-05-10
+
+## Added
+
++ Link to new Discord server: go there to be notified of new releases and to discuss features, bugs, etc.
++ Support for Auto-Sell in Spider's Den
++ Option to always enable "Auto" combat mode
++ Option to always set combat to "x2" speed
++ Adjust wait time before starting next round (Range: 0-10 seconds)
++ Restore energy will now also use free refills when available
+
+## Fixed
+
++ Restore energy now restores energy properly
++ Resolved more false positive identification of Rank 5 on Rank 4 artifacts
+
+## Changed
+
++ Download link text
+  - *PS: Thank you to those who have donated and suggested adding this option.*
 
 ## [3.3.1] - 2020-05-05
 
