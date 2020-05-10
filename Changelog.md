@@ -10,7 +10,14 @@ All notable changes to this project will be documented in this file.
 + Food champ swapping (Coming in v4.0)
 + Support for BlueStacks and other clients
 + "Nexter" to automatically progress through campaign/dungeon stages
-+ 
+
+## [3.3.3] - 2020-05-10
+
+Hotfix. This update not necessary unless your system is affected. See below for changes.
+
+## Fixed
+
++ Restore Energy affecting users with certain OS configurations.
 
 ## [3.3.2] - 2020-05-10
 
