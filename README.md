@@ -79,6 +79,10 @@ When using OMGclick with multiple clients, clients are initially processed from 
 
 ## [Donate]
 
+<<<<<<< HEAD
 I also wish to give a special thank you to those of you who've chosen to toss a few bucks my way to show your support and appreciation for the work I've put into this project. While I do not expect this from anyone, for those who may feel inclined to do so, you are welcome [to help keep my coffee supply topped off via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my auto-clicker, and thank you for any donations. Have a wonderful day, and be safe out there.
+=======
+A special thank you also goes out to those of you who've chosen to toss a few bucks my way to show your support and appreciation. While I do not expect this from anyone, for those who may feel inclined to do so, you are welcome [to help keep my coffee supply topped off via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my auto-clicker, and thank you for any donations. Have a wonderful day, and be safe out there.
+>>>>>>> 03facb95b3f33d09304cf6a80d21adb74f558432
 
 Happy raiding!
