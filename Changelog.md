@@ -11,6 +11,14 @@ All notable changes to this project will be documented in this file.
 + Support for BlueStacks and other clients
 + "Nexter" to automatically progress through (and optionally 3-star) campaign/dungeon stages
 
+## [3.3.5] - 2020-05-13
+
+Hotfix. This update not necessary unless your system is affected. See below for changes.
+
+## Fixed
+
++ Users (particularly Windows 7 users) encountering unidentified Rank 4 and Rank 5 artifacts
+
 ## [3.3.4] - 2020-05-13
 
 ## Added
