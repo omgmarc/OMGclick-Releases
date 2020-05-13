@@ -53,7 +53,7 @@ Rather than having you mess with a config file, I've designed a simple user inte
 
 **Stop at Max Level** will automatically stop the grind session for the client and return to the "Edit Team" screen.
 
-**Ignore Levels in Dungeons** will allow you to run dungeons without having to toggle the "Stop at Max Level" option off, allowing you to switch between grinding EXP in 12-3 Brutal and gear in dungeons without changing any settings. This is particularly useful when running multiple clients in differente content.
+**Ignore Levels in Dungeons** will allow you to run dungeons without having to toggle the "Stop at Max Level" option off, allowing you to switch between grinding EXP in 12-3 Brutal, for example, and gear in dungeons without changing any settings. This is particularly useful when running multiple clients through different content simultaneously.
 
 **Always "Auto" Combat Mode** will automatically enable "Auto" combat in battles. **Always "x2" Combat Speed** will automatically enable "x2" speed in battles. On their own, these options are not particularly special, but they *can* come in handy if you're fighting in the arena and always Auto-ing.
 
