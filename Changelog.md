@@ -9,7 +9,27 @@ All notable changes to this project will be documented in this file.
 + Artifact rarity and flat stats filters for Auto-Sell (Coming in v4.0)
 + Food champ swapping (Coming in v4.0)
 + Support for BlueStacks and other clients
-+ "Nexter" to automatically progress through campaign/dungeon stages
++ "Nexter" to automatically progress through (and optionally 3-star) campaign/dungeon stages
+
+## [3.3.4] - 2020-05-12
+
+## Added
+
++ More information provided in status messages
+
+## Fixed
+
++ Rank 5's no longer ID'd as Rank 4's
++ Certain Avenging artifacts not being identified
++ Certain Stalwart artifacts not being identified
++ Certain Toxic artifacts not being identified
+
+## Changed
+
++ Rebuilt the entire Auto-Sell routine for better reliability
++ Checking for max levels now accommodates all team sizes from 1 to 5 champs
++ Enabling screenshots will now capture non-artifact post-battle screens (e.g. shards, brews, champions, and any unidentified artifacts)
++ Auto-sell "star" ranks will display "text" ranks instead for versions before Windows 10.0.18300
 
 ## [3.3.3] - 2020-05-10
 

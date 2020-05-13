@@ -1,6 +1,6 @@
 # **OMGclick** for *Raid: Shadow Legends* (Desktop Clients)
 
-<img src="OMGclick.png" align="right" margin=10 alt="GUI" style="float:right; border: 1px dashed #999; padding: 10px; margin: 0 0 10px 10px"/>
+<img src="img/OMGclick.png" align="right" margin=10 alt="GUI" style="float:right; border: 1px dashed #999; padding: 10px; margin: 0 0 10px 10px"/>
 
 ## Table of Contents
 
@@ -51,7 +51,11 @@ Rather than having you mess with a config file, I've designed a simple user inte
 
 **Check for +100% EXP Boost** will prompt you if it detects that 100% EXP boost isn't active. You will be given the option to stop the grind session so you can refresh the boost or you may continue without it.
 
-**Auto-stop at Max Level** will automatically stop the grind session for the client and return to the "Edit Team" screen.
+**Stop at Max Level** will automatically stop the grind session for the client and return to the "Edit Team" screen.
+
+**Ignore Levels in Dungeons** will allow you to run dungeons without having to toggle the "Stop at Max Level" option off, allowing you to switch between grinding EXP in 12-3 Brutal and gear in dungeons without changing any settings. This is particularly useful when running multiple clients in differente content.
+
+**Always "Auto" Combat Mode** will automatically enable "Auto" combat in battles. **Always "x2" Combat Speed** will automatically enable "x2" speed in battles. On their own, these options are not particularly special, but they *can* come in handy if you're fighting in the arena and always Auto-ing.
 
 **Replay Delay** This slider will give you the option to set a brief wait period before starting the next battle. This is handy in case you want to have time to manually stop the program. Do note that if you have user inputs blocked, you will not be able to interrupt the process until the program restores user input (or you perform a CTRL+ALT+DELETE to bypass the lock).
 
@@ -59,7 +63,7 @@ Rather than having you mess with a config file, I've designed a simple user inte
 
 **Number of runs** allows you to set a limit to the number of runs to be executed by the program. At this time, this is a global setting that affects all running clients. Setting this to **10**, for example, will perform 10 battles on each client before stopping.
 
-**Restore Energy** will automatically purchase energy refills for you; otherwise, the program will wait for enough energy to be restored to continue. Do take into consideration how fast your runs are. With this setting enabled, you can easily burn through all your gems in one night. It's recommended that you either set the number of runs you wish to perform and/or to preload your energy beforehand.
+**Restore Energy** will automatically consume energy refills in your inventory and use gems to purchase energy refills. Do take into consideration how fast your runs are. With this setting enabled, you can easily burn through all your gems. It's recommended that you either set the number of runs you wish to perform and/or to preload your energy beforehand.
 
 ## [Usage]
 
