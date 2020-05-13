@@ -11,11 +11,12 @@ All notable changes to this project will be documented in this file.
 + Support for BlueStacks and other clients
 + "Nexter" to automatically progress through (and optionally 3-star) campaign/dungeon stages
 
-## [3.3.4] - 2020-05-12
+## [3.3.4] - 2020-05-13
 
 ## Added
 
 + More information provided in status messages
++ Option to ignore max levels in dungeons without disabling the option for compaign runs
 
 ## Fixed
 
