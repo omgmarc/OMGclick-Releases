@@ -11,29 +11,39 @@ All notable changes to this project will be documented in this file.
 + Support for BlueStacks and other clients
 + "Nexter" to automatically progress through (and optionally 3-star) campaign/dungeon stages
 
+## [3.3.6] - 2020-05-14
+
+Bugfix. Users should use this over older versions.
+
+### Fixed
+
++ Getting stuck during Auto-Sell process
++ +100% EXP boost not properly detected for some users
++ Entering values directly into scan interval fields instead of using UP/DOWN buttons now updates interval properly (for next interval)
+
 ## [3.3.5] - 2020-05-13
 
 Hotfix. This update not necessary unless your system is affected. See below for changes.
 
-## Fixed
+### Fixed
 
 + Users (particularly Windows 7 users) encountering unidentified Rank 4 and Rank 5 artifacts
 
 ## [3.3.4] - 2020-05-13
 
-## Added
+### Added
 
 + More information provided in status messages
 + Option to ignore max levels in dungeons without disabling the option for compaign runs
 
-## Fixed
+### Fixed
 
 + Rank 5's no longer ID'd as Rank 4's
 + Certain Avenging artifacts not being identified
 + Certain Stalwart artifacts not being identified
 + Certain Toxic artifacts not being identified
 
-## Changed
+### Changed
 
 + Rebuilt the entire Auto-Sell routine for better reliability
 + Checking for max levels now accommodates all team sizes from 1 to 5 champs
@@ -44,13 +54,13 @@ Hotfix. This update not necessary unless your system is affected. See below for 
 
 Hotfix. This update not necessary unless your system is affected. See below for changes.
 
-## Fixed
+### Fixed
 
 + Restore Energy affecting users with certain OS configurations.
 
 ## [3.3.2] - 2020-05-10
 
-## Added
+### Added
 
 + Link to new Discord server: go there to be notified of new releases and to discuss features, bugs, etc.
 + Support for Auto-Sell in Spider's Den
@@ -59,12 +69,12 @@ Hotfix. This update not necessary unless your system is affected. See below for 
 + Adjust wait time before starting next round (Range: 0-10 seconds)
 + Restore energy will now also use free refills when available
 
-## Fixed
+### Fixed
 
 + Restore energy now restores energy properly
 + Resolved more false positive identification of Rank 5 on Rank 4 artifacts
 
-## Changed
+### Changed
 
 + Download link text
   - *PS: Thank you to those who have donated and suggested adding this option.*
