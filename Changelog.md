@@ -10,6 +10,27 @@ All notable changes to this project will be documented in this file.
 + Food champ swapping (Coming in v4.0)
 + Support for BlueStacks and other clients
 + "Nexter" to automatically progress through (and optionally 3-star) campaign/dungeon stages
++ Indicator for how many runs have taken place
+
+## [3.3.7] - 2020-05-15
+
+Bugfix. Users should use this over older versions.
+
+### Fixed
+
++ Energy restore not working with energy refill bottles from inbox for some users
++ Rank 6 accessories ID'd as Rank 5 in Spider's Den
++ Factions not ID'd for Spider's Den accessories for some users:
+  + Banner Lords
+  + Dark Elves
+  + Demonspawn
+  + Dwarves
+  + High Elves
+  + Knight Revenant
+  + Lizardmen
+  + Sacred Order
+  + Skinwalkers
+  + Undead Hordes
 
 ## [3.3.6] - 2020-05-14
 
