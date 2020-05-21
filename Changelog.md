@@ -12,7 +12,7 @@ All notable changes to this project will be documented in this file.
 + "Nexter" to automatically progress through (and optionally 3-star) campaign/dungeon stages
 + Indicator for how many runs have taken place
 
-## [3.3.8] - 2020-05-16
+## [3.3.8] - 2020-05-21
 
 Hotfix. Optional update if you're affected by any of the issues described below.
 
