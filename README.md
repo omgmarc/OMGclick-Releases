@@ -33,7 +33,7 @@ Rather than having you mess with a config file, I've designed a simple user inte
 
 ### [Client Settings]
 
-**Number of Game Clients** Set this to the number game clients you have running. Unless you're multi-boxing, you'll likely only ever need to set this to anything other than 1. I haven't personally tested this, but theoretically, this program should be able to support up to 99 simultaneous clients. Whether or not your computer can is a different story.
+**Number of Game Clients** Set this to the number game clients you have running. Unless you're multi-boxing, you'll likely never need to set this to anything other than 1. I haven't personally tested this, but theoretically, this program should be able to support up to 99 simultaneous clients. Whether or not your computer can is a different story.
 
 **Minimize when not scanning**: this will hide the game client windows when they're not being processed. This option is handy for those of you who might want to do other stuff on your computer while letting this program do its thing.
 
