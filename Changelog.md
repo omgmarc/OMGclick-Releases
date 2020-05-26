@@ -4,13 +4,32 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-+ Market Monitor to buy Shards when AFK (Coming in v4.0)
++ Artifact rarity and flat stats filters for Auto-Sell
++ Food champ swapping
++ Market Monitor to buy Shards when AFK
 + Automatic/Dynamic battle time calculation
-+ Artifact rarity and flat stats filters for Auto-Sell (Coming in v4.0)
-+ Food champ swapping (Coming in v4.0)
-+ Support for BlueStacks and other clients
-+ "Nexter" to automatically progress through (and optionally 3-star) campaign/dungeon stages
++ "Nexter" to automatically progress through campaign/dungeon stages
+  + Optionally 3-star campaign missions
 + Indicator for how many runs have taken place
+
+## [3.3.9] - 2020-05-25
+
+### Fixed
++ Auto-sell locking up
++ Restore energy not working for some users
++ Rank 4 and Rank 5 artifacts not identified for some users
++ Correctly applied fixes intended for version 3.3.8 release
+
+## [3.3.8] - 2020-05-16
+
+**Release retracted.** Use see next version up.
+
+~~Hotfix. Optional update if you're affected by any of the issues described below:~~
+
+### ~~Fixed~~
+
++ ~~Auto-sell locking up~~
++ ~~Restore energy not working for some users~~
 
 ## [3.3.7] - 2020-05-15
 

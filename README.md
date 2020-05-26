@@ -5,13 +5,13 @@
 ## Table of Contents
 
 + [Overview](#Overview)
++ [Donate](#Donate)
 + [Configuration](#Configuration)
   + [Client Settings](#Client-Settings)
   + [Auto-Sell](#Auto-Sell)
   + [General Settings](#General-Settings)
 + [Usage](#Usage) - *Read this before using*
 + [Caveats](#Caveats)
-+ [Donate](#Donate)
 
 ## [Overview]
 
@@ -25,6 +25,12 @@ Please do bear in mind that this is really just a hobby at this point and is sti
 
 Anyhow, if you've made it this far, thank you. I look forward to reading your feedback and working together in making this the best it can be or at least as good as I can make it. Look below for information on how to use this program. For those who prefer video instructions over ones in text form, that will be coming soon, too.
 
+## [Donate]
+
+I wish to give a special thank you to those of you who've chosen to toss a few bucks my way to show your support and appreciation for the work I've put into this project. While I do not expect this from anyone, for those who may feel inclined to do so, you are welcome [to help keep my coffee supply topped off via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my auto-clicker, and thank you for any donations. Have a wonderful day, and be safe out there.
+
+Happy raiding!
+
 ## [Configuration]
 
 Rather than having you mess with a config file, I've designed a simple user interface (UI). The options should be relatively straightforward if you're already familiar with the game's Multi-Battle option.
@@ -33,9 +39,9 @@ Rather than having you mess with a config file, I've designed a simple user inte
 
 ### [Client Settings]
 
-**Number of Game Clients** Set this to the number game clients you have running. Unless you're multi-boxing, you'll likely never need to set this to anything other than 1. I haven't personally tested this, but theoretically, this program should be able to support up to 99 simultaneous clients. Whether or not your computer can is a different story.
+**Number of Game Clients** Set this to the number game clients you have running. Unless you're multi-boxing, you'll likely never need to set this to anything other than 1.
 
-**Minimize when not scanning**: this will hide the game client windows when they're not being processed. This option is handy for those of you who might want to do other stuff on your computer while letting this program do its thing.
+**Minimize when not scanning**: this will hide the game client when not being processed.
 
 **Block user input while processing game client** will prevent you from sending accidental commands (i.e. keystrokes and mouseclicks) to the game client(s). You will need to run this program as Admin in order to use this option (it's a limitation in Windows). Click on the little shield icon to relaunch the program as Admin if you wish to enable this setting. If at any point you need to regain control while locked out, press CTRL+ALT+DEL (then click Cancel) to override this setting.
 
@@ -49,13 +55,13 @@ Rather than having you mess with a config file, I've designed a simple user inte
 
 ### [General Settings]
 
-**Check for +100% EXP Boost** will prompt you if it detects that 100% EXP boost isn't active. You will be given the option to stop the grind session so you can refresh the boost or you may continue without it.
+**Check for +100% EXP Boost** will prompt you if it detects that 100% EXP boost isn't active. You will be given the option to stop the grind session so you can refresh the boost or you may continue without it. Note that continuing without boost disable this setting.
 
-**Stop at Max Level** will automatically stop the grind session for the client and return to the "Edit Team" screen.
+**Stop at Max Level** will automatically stop the grind session for the client and return to the "Edit Team" screen. If any other clients are still running, you can resume the client simply replacing max level champs with new ones and manually starting the first battle. The program will automatically resume replaying. If all clients hit max level, the program will automatically halt all clients sessions.
 
 **Ignore Levels in Dungeons** will allow you to run dungeons without having to toggle the "Stop at Max Level" option off, allowing you to switch between grinding EXP in 12-3 Brutal, for example, and gear in dungeons without changing any settings. This is particularly useful when running multiple clients through different content simultaneously.
 
-**Always "Auto" Combat Mode** will automatically enable "Auto" combat in battles. **Always "x2" Combat Speed** will automatically enable "x2" speed in battles. On their own, these options are not particularly special, but they *can* come in handy if you're fighting in the arena and always Auto-ing.
+**Always "Auto" Combat Mode** will automatically enable "Auto" combat in battles. **Always "x2" Combat Speed** will automatically enable "x2" speed in battles. On their own, these options are not particularly special, but they *can* come in handy if you're fighting in the arena and always "auto" battling.
 
 **Replay Delay** This slider will give you the option to set a brief wait period before starting the next battle. This is handy in case you want to have time to manually stop the program. Do note that if you have user inputs blocked, you will not be able to interrupt the process until the program restores user input (or you perform a CTRL+ALT+DELETE to bypass the lock).
 
@@ -81,8 +87,4 @@ OMGclick uses your game client's Process ID (PID) as a unique identifier rather 
 
 When using OMGclick with multiple clients, clients are initially processed from the bottom up. If you wish to run OMGclick with a different client count than are actually running (e.g. setting number of clients to 1 but having 2 running), make sure that the one(s) you want OMGclick to "ignore" are the ones most-recently active. So in the previously-mentioned example, the one to be ignored would either be currently active (selected) or have been the most-recently active before switching to some other window that's **NOT** the client you wish to be scanned. Under most circumstances, this is a non-issue, but I felt it relevant for some users as I tend to do this myself when working on an account that's not "farming".
 
-## [Donate]
 
-I also wish to give a special thank you to those of you who've chosen to toss a few bucks my way to show your support and appreciation for the work I've put into this project. While I do not expect this from anyone, for those who may feel inclined to do so, you are welcome [to help keep my coffee supply topped off via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my auto-clicker, and thank you for any donations. Have a wonderful day, and be safe out there.
-
-Happy raiding!
