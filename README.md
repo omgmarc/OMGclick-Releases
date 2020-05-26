@@ -5,7 +5,7 @@
 ## Table of Contents
 
 + [Overview](#Overview)
-+ [Donate](#Donate)
++ [Support this Project](#Support-this-Project)
 + [Configuration](#Configuration)
   + [Client Settings](#Client-Settings)
   + [Auto-Sell](#Auto-Sell)
@@ -25,9 +25,9 @@ Please do bear in mind that this is really just a hobby at this point and is sti
 
 Anyhow, if you've made it this far, thank you. I look forward to reading your feedback and working together in making this the best it can be or at least as good as I can make it. Look below for information on how to use this program. For those who prefer video instructions over ones in text form, that will be coming soon, too.
 
-## [Donate]
+## [Support this Project]
 
-I wish to give a special thank you to those of you who've chosen to toss a few bucks my way to show your support and appreciation for the work I've put into this project. While I do not expect this from anyone, for those who may feel inclined to do so, you are welcome [to help keep my coffee supply topped off via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my auto-clicker, and thank you for any donations. Have a wonderful day, and be safe out there.
+I wish to give a special thank you to those of you who've chosen to toss a few bucks my way to show your support and appreciation for the work I've put into this project. If you would also like to support the project, you can now [do so on Patreon](https://www.patreon.com/OMGclick). Doing so provides you with access to the development process, access to upcoming features and early releases, a say in the direction of the project, and more. If you prefer to do a one-time donation instead, you can [help keep my coffee supply topped off via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VUVL2RPM5TLUC&currency_code=USD&source=url). Again, thank you for using my humble little script, and have yourself a safe and wonderful day.
 
 Happy raiding!
 
