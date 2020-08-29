@@ -14,6 +14,8 @@ All notable changes to this project will be documented in this file.
 
 ## [3.3.10] - 2020-08-28
 
+**Hotfix:** This is an optional update only necessary if you're affected by any of the issues described below:
+
 ### Added
 + Notes about Display Scaling added to FAQ page
 
