@@ -12,6 +12,15 @@ All notable changes to this project will be documented in this file.
   + Optionally 3-star campaign missions
 + Indicator for how many runs have taken place
 
+## [3.3.10] - 2020-08-28
+
+### Added
++ Notes about Display Scaling added to FAQ page
+
+### Fixed
++ Auto-sell hanging when selling Uncommon items for certain users
++ EXP Boost not being detected for certain users
+
 ## [3.3.9] - 2020-05-25
 
 ### Fixed
