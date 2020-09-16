@@ -4,17 +4,33 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-+ Artifact rarity and flat stats filters for Auto-Sell
++ More auto-sell filters
+  + Flat main stats
+  + Artifact rarity
+  + Unwanted set pieces
 + Food champ swapping
 + Market Monitor to buy Shards when AFK
-+ Automatic/Dynamic battle time calculation
++ ~~Automatic/Dynamic battle time calculation~~ Background scanning removes need for this
 + "Nexter" to automatically progress through campaign/dungeon stages
   + Optionally 3-star campaign missions
-+ Indicator for how many runs have taken place
+
+## [3.4.0] - 2020-09-16
+
+### Added
++ Run count indicator
++ Client PID prefix to screenshots
++ 10-second Auto-sell timeout in event an endless loop occurs because of unintentional user input during auto-sell process
+
+### Fixed
++ 100% EXP Boost not being detected when active alongside Raid Pass
+
+### Changed
++ Run count limit range increased to 999
++ Scans now take place in the background
+  + Game window is only activated for initial PID scan and when a mouse action (e.g. click) or a screenshot is requested
+  + Minimized windows will always be activated in order to be scanned.
 
 ## [3.3.10] - 2020-08-28
-
-**Hotfix:** This is an optional update only necessary if you're affected by any of the issues described below:
 
 ### Added
 + Notes about Display Scaling added to FAQ page
