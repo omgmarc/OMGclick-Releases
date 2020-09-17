@@ -14,6 +14,14 @@ All notable changes to this project will be documented in this file.
 + "Nexter" to automatically progress through campaign/dungeon stages
   + Optionally 3-star campaign missions
 
+## [3.4.1] - 2020-09-17
+
+Hotfix.
+
+## Fixed
++ Game client activation for screenshots
++ Run counter stuck at "1"
+
 ## [3.4.0] - 2020-09-16
 
 ### Added
