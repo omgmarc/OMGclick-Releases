@@ -14,6 +14,15 @@ All notable changes to this project will be documented in this file.
 + "Nexter" to automatically progress through campaign/dungeon stages
   + Optionally 3-star campaign missions
 
+## [3.4.2] - 2020-09-19
+
+## Added
++ Retry when connection error occurs
+
+## Fixed
++ Run counter resets on Edit Team event
++ 
+
 ## [3.4.1] - 2020-09-17
 
 Hotfix.
