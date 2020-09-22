@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
++ [Will I get I get banned for using OMGclick?](#will-i-get-banned-for-using-omgclick)
 + [My anti-virus said your program contains a virus/trojan. Is this safe?](#my-anti-virus-said-your-program-contains-a-virustrojan-is-this-safe)
 + [How do I use the "Block User Input" option?](#how-do-i-use-the-block-user-input-option)
 + [My mouse is stuck. How do I regain control of it?](#my-mouse-is-stuck-how-do-i-regain-control-of-it)
@@ -17,6 +18,15 @@
 + [Where do I find the link to Discord?](#where-do-i-find-the-link-to-discord)
 + [How do I get the latest version?](#how-do-i-get-the-latest-version)
 + [How do I use OMGclick with only "X number" of clients while I manually handle "Y number" of clients?](#how-do-i-use-omgclick-with-only-x-number-of-clients-while-i-manually-handle-y-number-of-clients)
+
+## Will I get banned for using OMGclick?
+The simple answer is, "Not likely." The proper answer follows.
+
+The only language in Plarium's [Terms of Use](https://plarium.com/en/terms-of-use/) that pertains to this matter states that you are not allowed to do the following:
+```
+decipher, decompile, disassemble, reverse engineer, or otherwise attempt to derive any code or underlying ideas or algorithms of any part of the Service, including any Service available on or through Third-Party Platforms;
+```
+This program does none of those things, nor have I as its author performed any of those actions during the development of this program. It's also common knowledge (or so we've been led to believe, anyway) that Plarium is "OK with autoclickers," though I have yet to see any citation on this. Their Terms of Use does not contradict that belief. TAlong with my prior statement, that indicates to me that end-users of this program are **NOT** in violation of Plarium's Terms of Use. That said, Plarium's Terms of Use *is* subject to change at any time, which would then be communicated to users via in-game announcement, email, or other form of communication. Those changes will then go into effect after five (5) days have passed. Should any change deem the use of this program explicity in violation of Plarium's Terms of Use, users will be advised against using it. Responsibility for any continued use of this program beyond that will be placed solely on the end-user.
 
 ## My anti-virus said your program contains a virus/trojan. Is this safe?
 Many (not all) anti-virus programs will be triggered with a false positive depending on what their definitions files qualify as malware. Until I implement the ability for users to check for updates from within program, the only things OMGclick does aside from moving your mouse cursor and performing clicks as needed, are it creates folders and files as it needs (e.g. its images and screenshots folders, its config file, and any screenshots when enabled). False positives might also be triggered by the compression used in creating the EXE from the original AHK script. Submitting my program to every Anti-Virus company to have it cleared by them is simply not a feasible option. In any case, these can be safely ignored. Of course, if you're really worried about it you're also free to disregard everything I just said and not use OMGclick altogether. 
