@@ -6,6 +6,7 @@
 
 + [Will I get I get banned for using OMGclick?](#will-i-get-banned-for-using-omgclick)
 + [My anti-virus said your program contains a virus/trojan. Is this safe?](#my-anti-virus-said-your-program-contains-a-virustrojan-is-this-safe)
++ [Where is the source code?](#where-is-the-source-code)
 + [How do I use the "Block User Input" option?](#how-do-i-use-the-block-user-input-option)
 + [My mouse is stuck. How do I regain control of it?](#my-mouse-is-stuck-how-do-i-regain-control-of-it)
 + [Why does my game window keep getting resized?](#why-does-my-game-window-keep-getting-resized)
@@ -30,6 +31,9 @@ This program does none of those things, nor have I as its author performed any o
 
 ## My anti-virus said your program contains a virus/trojan. Is this safe?
 Many (not all) anti-virus programs will be triggered with a false positive depending on what their definitions files qualify as malware. Until I implement the ability for users to check for updates from within program, the only things OMGclick does aside from moving your mouse cursor and performing clicks as needed, are it creates folders and files as it needs (e.g. its images and screenshots folders, its config file, and any screenshots when enabled). False positives might also be triggered by the compression used in creating the EXE from the original AHK script. Submitting my program to every Anti-Virus company to have it cleared by them is simply not a feasible option. In any case, these can be safely ignored. Of course, if you're really worried about it you're also free to disregard everything I just said and not use OMGclick altogether. 
+
+## Where is the source code?
+For the time being, I have chosen to keep the source code private. I explain why here on [this Reddit post](https://www.reddit.com/r/RaidShadowLegends/comments/is4v4n/the_god_of_autoclickers_no_need_to_play_the_game/g5iwl9l/?utm_source=share&utm_medium=web2x&context=3).
 
 ## How do I use the "Block User Input" option?
 You will need to launch OMGclick with the "Run as admin..." option. If it's already running, you can also just click on the little shield icon to reload OMGclick as admin.
