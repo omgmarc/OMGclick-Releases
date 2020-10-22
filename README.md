@@ -15,7 +15,7 @@
 
 ## [Overview]
 
-**[Download Latest Version from the Discord server](https://discord.gg/RBzHB5n)**, and sign up to be be notified whenever new versions are released.
+**[Download Latest Version from the Discord server](https://discord.gg/hHNVPUZ)**, and sign up to be be notified whenever new versions are released.
 
 This auto clicker was written using **AutoHotkey**, but its aim is to be more than a simple "replay" script by automating other aspects of the tedious and repetitive task of grinding for EXP and gear in Raid: Shadow Legends. While most auto clickers simply spam keys or mouseclicks to replay a battle for you, this one seeks to replicate the game's in-built Multi-Battle system but without any imposed limits to the number of battles available...aside from how much energy you can afford to spend. 
 
