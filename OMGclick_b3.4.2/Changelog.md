@@ -21,6 +21,7 @@ All notable changes to this project will be documented in this file.
 
 ## Fixed
 + Run counter resets on Edit Team event
++ 
 
 ## [3.4.1] - 2020-09-17
 
