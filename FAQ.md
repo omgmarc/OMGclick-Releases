@@ -71,7 +71,7 @@ In most cases, this isn't something you can fix directly. If you know exactly wh
 If you saw this error message, then it also means a screenshot was automatically saved (even if screenshots are not enabled) of the unidentified item in the post-battle screen. Look for it in the screenshots folder wherever you have OMGclick located. Submit a bug report on Discord or create an issue on Github, and include the screenshot.
 
 ## Where do I find the link to Discord?
-It's https://discord.gg/RBzHB5n, but if you can also find a link to it at https://getomgclick.com.
+It's https://discord.gg/SxH7Jmauhw, but if you can also find a link to it at https://getomgclick.com.
 
 ## How do I get the latest version?
 The best way to stay notified of new versions is by [joining the Discord server](https://discord.gg/RBzHB5n), but you can always find the latest version on at https://getomgclick.com. I plan to eventually include a way to check for updates from within the program.
