@@ -39,7 +39,7 @@ I have submitted my software to Windows to have it cleared from the Windows 10 S
 Of course, if you're really worried about it you're also free to disregard everything I just said and not use OMGclick altogether. 
 
 ## Where is the source code?
-For the time being, I have chosen to keep the source code private. I explain why here on [this Reddit post](https://www.reddit.com/r/RaidShadowLegends/comments/is4v4n/the_god_of_autoclickers_no_need_to_play_the_game/g5iwl9l/?utm_source=share&utm_medium=web2x&context=3). 
+For the time being, I have chosen to keep the source code private. If you're worried about your account information being stolen despite my claims that OMGclick does not do that, then please do not use OMGclick. 
 
 ## My mouse is stuck. How do I regain control of it?
 You can usually press `CTRL+ALT+DEL` and then open the Task Manager to regain control of your mouse. This was likely caused by an endless loop being triggered in the script somehow. In most cases, they tend to be random user inputs that conflict with something the script is trying to do (e.g. moving the mouse or clicking on a button). They're technically not bugs, but because they're hard to catch, they can often slip through testing. If you're able to reproduce the problem reliably, be sure to submit a bug report with all the details so that it can be patched.
