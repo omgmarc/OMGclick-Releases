@@ -53,7 +53,7 @@ OMGclick resizes game client window to a particular size in order to "normalize"
 See above.
 
 ## It resized my game, but it's not doing anything after that.
-This is likely due to you using a display scaling other than 100%. 
+~~This is likely due to you using a display scaling other than 100%.~~ This issue no longer exists as of version 4.1.0. Please update your version of OMGclick if you prefer using a Display Scaling above 100%. If OMGclick is still not working, it is likely due to your anti-virus software (yes, Windows Defender is anti-virus software, too) blocking it. See this video for information on how to get around it: https://www.youtube.com/watch?v=hbpJxRdLA2g
 
 ## My game crashed, so I had to restart it. Why isn't OMGclick working anymore?
 OMGclick uses your game's Process ID (PID) as a unique identifier rather than relying on its window title in order to properly handle multiple clients. However, when relaunching a client that might have crashed, for example, you will need to manually trigger a rescan by clicking the [Reload] button. Also, if you launch additional clients, changing the number of clients setting will cause OMGclick to rescan all clients for new PIDs before initiating the next scan.
@@ -61,8 +61,8 @@ OMGclick uses your game's Process ID (PID) as a unique identifier rather than re
 ## I set OMGclick to grind EXP overnight, but when I woke up, there was still a lot of energy left over (more than my energy cap), and my champs didn't gain much EXP. What caused this?
 If you have OMGclick check for the 2x EXP boost and it expires while grinding EXP, an alert pops up asking if you wish to continue without the EXP boost. OMGclick will wait up to 30 seconds for a response. If no response is given (e.g. because you're AFK), then it will default to a "No" response and halt the session. This was done to prevent users from "wasting" energy. If you want to make sure the program continues grinding EXP even when your EXP boost expires while you're AFK, make sure to disable the "Check for +100% EXP boost" option before going AFK.
 
-## After minimizing the game, the window looks all glitchy. Is this from OMGclick?
-No, this is a graphical bug related to the Unity player. It's a pitfall of the redrawing mechanism of the game client whenever it attempts to restore the game window. While this can affect users of high-end GPU's, it seems to be more prevalent on users of integrated graphics. If you're experiencing this often, you may want to stop using the "Minimize when not scanning" option.
+## After moving/resizing/minimizing the game window, the game looks all glitchy. Is this from OMGclick?
+No, this is a graphical bug related to the Unity player. It's a pitfall of the redrawing mechanism of the game client whenever it attempts to restore the game window. While this can affect users of dedicated video cards, it seems to be more prevalent with users of integrated graphics and low to mid-range graphics cards. If you're experiencing this often, consider checking for issues with your graphics drivers and Unity-based games. You may need to update your drivers or even roll back to an older version. 
 
 ## OMGclick sold (or kept) an artifact that it wasn't supposed to. How do I fix this?
 In most cases, this isn't something you can fix directly. If you know exactly what the artifact was (set, rank, rarity, etc.), post a bug-report on Discord or the issue tracker. Ideally, enable the screenshots option while continuing to farm that particular dungeon. If you see it happen again, look in OMGclick's screenshots folder for that post-battle screen (they're timestamped for your convenience), and include it in your bug report.
@@ -71,10 +71,10 @@ In most cases, this isn't something you can fix directly. If you know exactly wh
 If you saw this error message, then it also means a screenshot was automatically saved (even if screenshots are not enabled) of the unidentified item in the post-battle screen. Look for it in the screenshots folder wherever you have OMGclick located. Submit a bug report on Discord or create an issue on Github, and include the screenshot.
 
 ## Where do I find the link to Discord?
-It's https://discord.gg/SxH7Jmauhw, but if you can also find a link to it at https://getomgclick.com.
+It's https://discord.gg/SxH7Jmauhw, but if you can also find a link to it within OMGclick by clicking on the Discord icon below the banner or by visiting https://getomgclick.com.
 
 ## How do I get the latest version?
-The best way to stay notified of new versions is by [joining the Discord server](https://discord.gg/RBzHB5n), but you can always find the latest version on at https://getomgclick.com. I plan to eventually include a way to check for updates from within the program.
+The best way to stay notified of new versions is by [joining the Discord server](https://discord.gg/SxH7Jmauhw), but you can always find the latest version on at https://getomgclick.com. I plan to eventually include a way to check for updates from within the program.
 
 ## How do I use OMGclick with only "X number" of clients while I manually handle "Y number" of clients?
 **NOTE for users accustomed to older versions of OMGclick:** As of version 4.0.0, selection of game clients has changed from bottom up to a top down selection process to make it more intuitive for new users.
