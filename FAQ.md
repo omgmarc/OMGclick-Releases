@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-**NOTE:** Certain issues such as failing to properly detect item rank, EXP boost state, or clicking a button can be attributed to an issue with Display Scaling. To troubleshoot, try setting your display scaling to 100% and see if the problem persists. If it goes away, then please include this information when submitting your bug report.
+**NOTE:** Certain issues such as failing to properly detect item rank, EXP boost state, or clicking a button can be attributed to an issue with Display Scaling. To troubleshoot, try setting your display scaling to 100% (for instructions, see the User Guide) and see if the problem persists. If it goes away, then please include this information when submitting your bug report.
 
 ## Table of Contents
 
